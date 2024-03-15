@@ -10,6 +10,9 @@ public class Gestion_Versiones {
 		
 		int variable = 0;
 		//comentario
+		if (variable == 0) {
+			System.out.println("Entra en el if");
+		}
 	}
 
 }
